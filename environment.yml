@@ -1,4 +1,4 @@
-name: ai-engineer
+  name: ai-engineer
 channels:
   - defaults
 dependencies:
